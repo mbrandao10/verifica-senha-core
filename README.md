@@ -1,7 +1,5 @@
 # verifica-senha-core
 
-# verifica-senha-core
-
 ## 1. Sobre:
 - Este projeto tem o seu código aberto, de forma que qualquer pessoa pode vê-lo, fazer um fork, ou updates.
 
