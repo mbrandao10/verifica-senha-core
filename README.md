@@ -28,7 +28,7 @@ deixarei o link com de referencia: [Baixe e faça a instalação aqui.](https://
 
 ## 3. Como usar?
 
-- Para iniciar use o comando **npm start** na pasta raiz do seu projeto ou no terminal integrado de sua IDE.
+- Para iniciar va na pasta raiz do seu projeto pelo terminal ou no terminal integrado de sua IDE e digite o comando **npm start**
 - O projeto será iniciado na url **http://localhost:3005**
 
 
